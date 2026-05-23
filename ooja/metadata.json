@@ -1,0 +1,6 @@
+{
+  "name": "Ooja",
+  "description": "A sleek, black-and-white minimalist e-commerce store featuring bottom navigation, responsive navigation, user authentication, profile dashboard, search/filtering, and animated cart drawer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
